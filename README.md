@@ -1,4 +1,6 @@
-🌐 Rural FIber Net (RFN) Management Platform
+#🌐 **Rural FIber Net (RFN) Management Platform**
+
+
 A full-stack web application built to manage and streamline customer profiles, billing history, and complaints for an Internet Service Provider. Designed for efficiency, clarity, and real-world scalability.
 
 🚀 Features
