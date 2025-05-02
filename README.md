@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌐 Rural Fiber Net Platform
 
 A full-stack web application to manage customer operations — including profile management, billing history, and complaint resolution.
