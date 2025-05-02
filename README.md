@@ -56,6 +56,7 @@ rural-fiber-net/
 │   ├── models/
 │   ├── routes/
 │   ├── server.js
+
 >>>>>>> 
 ├── frontend/
 │   ├── components/
@@ -63,6 +64,8 @@ rural-fiber-net/
 │   │   ├── BillingHistory.jsx
 │   │   └── Complaints.jsx
 │   ├── App.js
+>>>>>>>
+>>>>>>> 
 <<<<<<< HEAD
 │   ├── index.js
 │   └── styles/
